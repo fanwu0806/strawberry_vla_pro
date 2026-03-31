@@ -42,12 +42,14 @@ https://github.com/user-attachments/assets/99584cb0-1d26-4ffb-a312-971f85c2019e
   <img src="assets/figures/fig4_performance.jpeg" width="800">
 </p>
 
+<div align="center">
 | Variant | RPR ↑ | UFPR ↓ | PIR ↑ | AAR ↓ |
 |---|---|---|---|---|
 | π₀ | 66.9% | 60.9% | 90.6% | 2.06 |
 | π₀.₅ (2-Cam) | 57.3% | 43.3% | 89.9% | 1.99 |
 | π₀.₅ (Pre-HomeOpt) | 83.9% | 67.2% | 51.1% | 1.91 |
 | π₀.₅ (Full) | **92.1%** | 61.9% | 75.0% | **1.91** |
+</div>
 
 <p align="center">
   <img src="assets/figures/fig5_spatial.jpeg" width="800">
