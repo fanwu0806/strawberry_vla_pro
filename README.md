@@ -39,9 +39,15 @@ https://github.com/user-attachments/assets/f19a6336-0c35-4865-96ca-c11055049aca
 ## Results
 
 <p align="center">
-  <img src="assets/figures/fig4_performance.jpeg" width="800">
+  <img src="assets/figures/fig4_performance.jpeg" width="600">
 </p>
 
+
+<p align="center">
+  <img src="assets/figures/fig5_spatial.jpeg" width="700">
+</p>
+
+> Per-strawberry harvest outcomes projected onto the Y–Z plane across four variants.
 
 | Variant | RPR ↑ | UFPR ↓ | PIR ↑ | AAR ↓ |
 |---|---|---|---|---|
@@ -49,14 +55,6 @@ https://github.com/user-attachments/assets/f19a6336-0c35-4865-96ca-c11055049aca
 | π₀.₅ (2-Cam) | 57.3% | 43.3% | 89.9% | 1.99 |
 | π₀.₅ (Pre-HomeOpt) | 83.9% | 67.2% | 51.1% | 1.91 |
 | π₀.₅ (Full) | **92.1%** | 61.9% | 75.0% | **1.91** |
-
-
-<p align="center">
-  <img src="assets/figures/fig5_spatial.jpeg" width="800">
-</p>
-
-> Per-strawberry harvest outcomes projected onto the Y–Z plane across four variants.
-
 ---
 
 ## Environment
