@@ -16,7 +16,7 @@ Fine-tuning [π₀ and π₀.₅](https://github.com/Physical-Intelligence/openp
 https://github.com/user-attachments/assets/60c53efd-194c-4f31-af66-0eee151e01ee
 
 ### π₀.₅ VLA Inference
-https://github.com/user-attachments/assets/a271bd00-8e8b-4fe0-b493-ef6f57db1464
+https://github.com/user-attachments/assets/99584cb0-1d26-4ffb-a312-971f85c2019e
 
 ---
 
