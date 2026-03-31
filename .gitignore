@@ -1,0 +1,33 @@
+# ── openpi (用户自行 clone) ──
+openpi/
+
+# ── 数据 & 产物 ──
+data_collection/episodes*/
+data_collection/picking_log*.csv
+data_collection/worker*.log
+data_collection/worker*_collect.py
+data_collection/scene_assembled_fixed*.usd
+data_inspection/
+
+# ── 推理产物 ──
+inference/scene_assembled_fixed*.usd
+inference/results/
+inference/captures/
+
+# ── checkpoint（太大）──
+checkpoints/
+
+# ── 环境配置 ──
+.env
+
+# ── Python ──
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# ── 系统 ──
+.DS_Store
+Thumbs.db
+*.swp
+*~
